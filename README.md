@@ -1,4 +1,4 @@
-# Laboratorios de programación -- Curso: Analítica de Grandes Datos
+# Laboratorios de programación --- Curso: Analítica de Grandes Datos
 
 Este repo contiene los laboratorios de programación para el curso de posgrado Analítica de Grandes Datos, ofertado en la Facultad de Minas, Universidad Nacional de Colombia, Sede Medellín.
 
